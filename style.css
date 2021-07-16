@@ -1,0 +1,43 @@
+.simps-box {
+    margin-top: 100px;
+}
+.simps-box h2 {
+    text-align: center;
+    font-size: 50px;
+}
+.simps-box h3 {
+    text-align: center;
+    font-size: 30px;
+}
+.simps-box p {
+    text-align: center;
+    margin-left: 300px;
+    width: 800px;
+    background-color: antiquewhite;
+}
+
+.simps-box img {
+    width: 180px;
+    height: 269px;
+    margin-left: 800px;
+}
+
+.prod-box {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    column-gap: 150px;
+}
+
+.prod-box h3 {
+    text-align: center;
+    font-size: 30px;
+    color: #4a4ac6;
+}
+.prod-box img {
+    width: 200px;
+    height: 200px;
+    border: 2px solid #dc2424;
+    padding: 3px;
+
+}
